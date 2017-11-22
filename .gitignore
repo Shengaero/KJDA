@@ -1,0 +1,9 @@
+# Intellij Project Files
+/src/test/
+/.idea/
+/out/
+*.iml
+
+# Gradle Files
+/.gradle/
+/build/
